@@ -9,7 +9,7 @@ Release:	1
 License:	GPL v2
 Group:		X11/Amusements
 Source0:	%{_splash}-%{version}.tar.bz2
-# Source0-md5:	c84da7ef908664e1243fd84da23f4492
+# Source0-md5:	7af045f4bf0a20ba110ba8b2eec24a98
 Requires:	kdebase-desktop
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
