@@ -11,7 +11,7 @@ Group:		X11/Amusements
 Source0:	%{_splash}-%{version}.tar.bz2
 # Source0-md5:	c84da7ef908664e1243fd84da23f4492
 Requires:	kdebase-desktop
-BuildArch:      noarch
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
